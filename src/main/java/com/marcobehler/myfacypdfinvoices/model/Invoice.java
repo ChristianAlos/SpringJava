@@ -1,4 +1,4 @@
-package com.marcobehler;
+package com.marcobehler.myfacypdfinvoices.model;
 import java.util.UUID;
 
 public class Invoice {

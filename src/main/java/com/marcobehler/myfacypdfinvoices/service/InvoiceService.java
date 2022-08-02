@@ -1,4 +1,6 @@
-package com.marcobehler;
+package com.marcobehler.myfacypdfinvoices.service;
+
+import com.marcobehler.myfacypdfinvoices.model.Invoice;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;

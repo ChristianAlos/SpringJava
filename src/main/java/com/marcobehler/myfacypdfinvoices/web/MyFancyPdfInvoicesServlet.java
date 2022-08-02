@@ -1,6 +1,8 @@
-package com.marcobehler;
+package com.marcobehler.myfacypdfinvoices.web;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.marcobehler.myfacypdfinvoices.model.Invoice;
+import com.marcobehler.myfacypdfinvoices.service.InvoiceService;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;

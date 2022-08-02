@@ -18,7 +18,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.marcobehler.ApplicationLauncher</mainClass>
+                  <mainClass>com.marcobehler.myfacypdfinvoices.ApplicationLauncher</mainClass>
                 </transformer>
               </transformers>
             </configuration>

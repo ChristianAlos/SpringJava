@@ -1,5 +1,6 @@
-package com.marcobehler;
+package com.marcobehler.myfacypdfinvoices;
 
+import com.marcobehler.myfacypdfinvoices.web.MyFancyPdfInvoicesServlet;
 import org.apache.catalina.Context;
 import org.apache.catalina.LifecycleException;
 import org.apache.catalina.Wrapper;
